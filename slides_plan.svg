@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="208.68195mm"
+   height="67.533707mm"
+   viewBox="0 0 208.68195 67.533707"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="slides_plan.svg"
+   inkscape:export-filename="/home/dormant/nir-presentation/exp_plan.png"
+   inkscape:export-xdpi="300.05148"
+   inkscape:export-ydpi="300.05148"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="380.05023"
+     inkscape:cy="136.83627"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     height="210mm" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13338" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bkg"
+     style="display:inline"
+     transform="translate(0.62172119,1.3341136)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.996049;stroke:#b3b3b3;stroke-width:0.390067;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect90118"
+       width="208.29189"
+       height="67.143639"
+       x="-0.42668769"
+       y="-1.13908" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.599113,-9.9166334)"
+     sodipodi:insensitive="true">
+    <g
+       id="g18789">
+      <g
+         id="g24077">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187111"
+           x="20.680593"
+           y="26.064066"
+           id="text2848"><tspan
+             sodipodi:role="line"
+             id="tspan2846"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.187111"
+             x="20.680593"
+             y="26.064066">News headings</tspan></text>
+        <path
+           id="rect12858"
+           style="fill:none;fill-opacity:0.996049;stroke:#666666;stroke-width:0.5;stroke-linecap:square"
+           d="M 18.486631,17.516544 H 68.095362 V 30.558747 H 18.486631 Z" />
+      </g>
+      <g
+         id="g24082"
+         transform="translate(-1.513916e-6,-0.37365953)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187111"
+           x="23.25519"
+           y="47.154305"
+           id="text4216"><tspan
+             sodipodi:role="line"
+             id="tspan4214"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.187111"
+             x="23.25519"
+             y="47.154305">Other context</tspan></text>
+        <path
+           id="path13014"
+           style="fill:none;fill-opacity:0.996049;stroke:#666666;stroke-width:0.5;stroke-linecap:square"
+           d="M 18.486631,37.863089 H 68.095362 V 50.905292 H 18.486631 Z" />
+      </g>
+      <g
+         id="g24087"
+         transform="translate(-1.513916e-6,-5.0648424)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187111"
+           x="24.285759"
+           y="71.708733"
+           id="text8708"><tspan
+             sodipodi:role="line"
+             id="tspan8706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.187111"
+             x="24.285759"
+             y="71.708733">Transactions</tspan></text>
+        <path
+           id="path13267"
+           style="fill:none;fill-opacity:0.996049;stroke:#666666;stroke-width:0.5;stroke-linecap:square"
+           d="M 18.486631,62.527157 H 68.095362 V 75.56936 H 18.486631 Z" />
+      </g>
+      <path
+         style="fill:#666666;stroke:#666666;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="M 68.305174,24.046453 H 129.2689"
+         id="path13315"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29952px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.132488"
+         x="72.881584"
+         y="22.478037"
+         id="text13877"><tspan
+           sodipodi:role="line"
+           id="tspan13875"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29952px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.132488"
+           x="72.881584"
+           y="22.478037">1) NLTK lemmatization</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29952px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.132488"
+           x="72.881584"
+           y="29.102436"
+           id="tspan22398">2) BERTopic analysis</tspan></text>
+      <path
+         style="fill:#666666;stroke:#666666;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="m 68.305174,44.019339 60.963726,2e-6"
+         id="path24295"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29952px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.132488"
+         x="72.15361"
+         y="42.368076"
+         id="text24301"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29952px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.132488"
+           x="72.15361"
+           y="42.368076"
+           id="tspan24299">Quadratic spline</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29952px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.132488"
+           x="72.15361"
+           y="48.992477"
+           id="tspan26943">interpolation</tspan></text>
+      <path
+         style="fill:#666666;stroke:#666666;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="M 68.305174,63.992224 H 110.25272"
+         id="path24303"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29952px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.132488"
+         x="72.053581"
+         y="62.397675"
+         id="text24309"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29952px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.132488"
+           x="72.053581"
+           y="62.397675"
+           id="tspan24307">Autoencoder</tspan></text>
+      <path
+         id="path38417"
+         style="fill:#666666;fill-opacity:0.996049;stroke:#666666;stroke-width:0.5;stroke-linecap:square"
+         d="m 132.34039,17.516544 39.5149,-1e-6 v 33.015088 l -39.5149,1e-6 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path44058"
+         style="fill:#666666;fill-opacity:0.996049;stroke:#666666;stroke-width:0.5;stroke-linecap:square"
+         d="M 113.77253,57.462315 H 171.8553 V 70.504518 H 113.77253 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.33653px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.158414"
+         x="116.76714"
+         y="65.914322"
+         id="text44056"><tspan
+           sodipodi:role="line"
+           id="tspan44054"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.33653px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.158414"
+           x="116.76714"
+           y="65.914322">Syntetic transactions</tspan></text>
+      <path
+         style="fill:#666666;stroke:#666666;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="m 171.30368,34.032896 h 8.7531"
+         id="path61139"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.19096px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.204775"
+         x="184.66273"
+         y="41.762817"
+         id="text61741"><tspan
+           sodipodi:role="line"
+           id="tspan61739"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.19096px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.204775"
+           x="184.66273"
+           y="41.762817">ARIMAX</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.19096px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.204775"
+           x="184.66273"
+           y="52.001518"
+           id="tspan7210">models</tspan></text>
+      <path
+         id="path61743"
+         style="fill:none;fill-opacity:0.996049;stroke:#666666;stroke-width:0.5;stroke-linecap:square"
+         d="m 182.94573,17.516544 h 29.95866 l -1e-5,52.987973 h -29.95866 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#666666;stroke:#666666;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="m 170.99791,63.992224 h 9.05887"
+         id="path6862"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.187111"
+         x="135.91936"
+         y="32.006802"
+         id="text10661"><tspan
+           sodipodi:role="line"
+           id="tspan10659"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.187111"
+           x="135.91936"
+           y="32.006802">Context</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48442px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.187111"
+           x="135.91936"
+           y="41.362328"
+           id="tspan16211">time series</tspan></text>
+    </g>
+  </g>
+</svg>
